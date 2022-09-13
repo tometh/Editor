@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor-team/wangeditor",
+  "name": "@tometh/Editor",
   "private": true,
   "scripts": {
     "test": "cross-env NODE_OPTIONS=--unhandled-rejections=warn jest --detectOpenHandles --passWithNoTests",
