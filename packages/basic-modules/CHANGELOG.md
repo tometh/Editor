@@ -19,7 +19,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 全选设置字体报错 ([cdb14d1](https://github.com/tometh/Editor/commit/cdb14d10330b5736534e7aaf3a070df2804a8be2))
 * 上下标文案显示 ([0e97da1](https://github.com/tometh/Editor/commit/0e97da18279cee6ea06c217972fee4faf9e4758f))
 * 添加链接,空格也会在链接中的问题 ([c656827](https://github.com/tometh/Editor/commit/c65682743bd49eba9ab64be847f1f9527fb6170b))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复多选文字且选择空白行无法修改文字样式 ([99a9150](https://github.com/tometh/Editor/commit/99a91509c6e12220bb105cc6d15a0f0a4b375cea))
 * 修复光标状态下设置文字样式,菜单不 active 的问题 ([b1b2dba](https://github.com/tometh/Editor/commit/b1b2dbaaae11f74bd36ec79ff50de336c252fef5))
 * 修复清除格式不完全的问题 ([1181a23](https://github.com/tometh/Editor/commit/1181a23e6de71162dc490d9b348379c9b2ef4251))
@@ -109,7 +109,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.3](https://github.com/tometh/Editor/compare/@wangeditor/basic-modules@1.1.2...@wangeditor/basic-modules@1.1.3) (2022-07-13)
+## [1.1.3](https://github.com/tometh/Editor/compare/@editor/basic-modules@1.1.2...@editor/basic-modules@1.1.3) (2022-07-13)
 
 
 ### Bug Fixes
@@ -121,7 +121,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/tometh/Editor/compare/@wangeditor/basic-modules@1.1.1...@wangeditor/basic-modules@1.1.2) (2022-07-11)
+## [1.1.2](https://github.com/tometh/Editor/compare/@editor/basic-modules@1.1.1...@editor/basic-modules@1.1.2) (2022-07-11)
 
 
 ### Bug Fixes
@@ -133,7 +133,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/tometh/Editor/compare/@wangeditor/basic-modules@1.1.0...@wangeditor/basic-modules@1.1.1) (2022-06-02)
+## [1.1.1](https://github.com/tometh/Editor/compare/@editor/basic-modules@1.1.0...@editor/basic-modules@1.1.1) (2022-06-02)
 
 
 ### Bug Fixes
@@ -145,7 +145,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/tometh/Editor/compare/@wangeditor/basic-modules@1.0.1...@wangeditor/basic-modules@1.1.0) (2022-05-25)
+# [1.1.0](https://github.com/tometh/Editor/compare/@editor/basic-modules@1.0.1...@editor/basic-modules@1.1.0) (2022-05-25)
 
 
 ### Bug Fixes
@@ -176,7 +176,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 全选设置字体报错 ([cdb14d1](https://github.com/tometh/Editor/commit/cdb14d10330b5736534e7aaf3a070df2804a8be2))
 * 上下标文案显示 ([0e97da1](https://github.com/tometh/Editor/commit/0e97da18279cee6ea06c217972fee4faf9e4758f))
 * 添加链接,空格也会在链接中的问题 ([c656827](https://github.com/tometh/Editor/commit/c65682743bd49eba9ab64be847f1f9527fb6170b))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复多选文字且选择空白行无法修改文字样式 ([99a9150](https://github.com/tometh/Editor/commit/99a91509c6e12220bb105cc6d15a0f0a4b375cea))
 * 修复光标状态下设置文字样式,菜单不 active 的问题 ([b1b2dba](https://github.com/tometh/Editor/commit/b1b2dbaaae11f74bd36ec79ff50de336c252fef5))
 * 修复清除格式不完全的问题 ([1181a23](https://github.com/tometh/Editor/commit/1181a23e6de71162dc490d9b348379c9b2ef4251))

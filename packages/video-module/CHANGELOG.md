@@ -11,7 +11,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 部分菜单 disabled ([87f1233](https://github.com/tometh/Editor/commit/87f12332a087072406c1988dc5cef2eae8335375))
 * 插入图片的 < > 替换 ([5721560](https://github.com/tometh/Editor/commit/57215609ada8b9d15f5505d1ba52e49707b5b183))
 * 更新各包之间依赖版本 ([75c552c](https://github.com/tometh/Editor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复视频无法被xml-formatter解析的问题 ([e081518](https://github.com/tometh/Editor/commit/e08151863628e0241fe4a3d5858cda4c8ea57949)), closes [#101](https://github.com/tometh/Editor/issues/101) [#95](https://github.com/tometh/Editor/issues/95) [#70](https://github.com/tometh/Editor/issues/70) [#69](https://github.com/tometh/Editor/issues/69)
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/tometh/Editor/commit/16559f052545c111318be760e64291a521bdcc65))
 * checkVideo 增加 poster 参数 ([c0402e1](https://github.com/tometh/Editor/commit/c0402e155470233d256e037d863dab74c026b7f6))
@@ -44,7 +44,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/tometh/Editor/compare/@wangeditor/video-module@1.1.1...@wangeditor/video-module@1.1.2) (2022-08-30)
+## [1.1.2](https://github.com/tometh/Editor/compare/@editor/video-module@1.1.1...@editor/video-module@1.1.2) (2022-08-30)
 
 
 ### Bug Fixes
@@ -55,7 +55,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/tometh/Editor/compare/@wangeditor/video-module@1.1.0...@wangeditor/video-module@1.1.1) (2022-07-14)
+## [1.1.1](https://github.com/tometh/Editor/compare/@editor/video-module@1.1.0...@editor/video-module@1.1.1) (2022-07-14)
 
 
 ### Bug Fixes
@@ -66,7 +66,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/tometh/Editor/compare/@wangeditor/video-module@1.0.1...@wangeditor/video-module@1.1.0) (2022-05-25)
+# [1.1.0](https://github.com/tometh/Editor/compare/@editor/video-module@1.0.1...@editor/video-module@1.1.0) (2022-05-25)
 
 
 ### Features
@@ -88,7 +88,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 部分菜单 disabled ([87f1233](https://github.com/tometh/Editor/commit/87f12332a087072406c1988dc5cef2eae8335375))
 * 插入图片的 < > 替换 ([5721560](https://github.com/tometh/Editor/commit/57215609ada8b9d15f5505d1ba52e49707b5b183))
 * 更新各包之间依赖版本 ([75c552c](https://github.com/tometh/Editor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复视频无法被xml-formatter解析的问题 ([e081518](https://github.com/tometh/Editor/commit/e08151863628e0241fe4a3d5858cda4c8ea57949)), closes [#101](https://github.com/tometh/Editor/issues/101) [#95](https://github.com/tometh/Editor/issues/95) [#70](https://github.com/tometh/Editor/issues/70) [#69](https://github.com/tometh/Editor/issues/69)
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/tometh/Editor/commit/16559f052545c111318be760e64291a521bdcc65))
 * fix插入视频报错的问题 ([f78b06d](https://github.com/tometh/Editor/commit/f78b06d7f75c288f306f04fbfec1dfeb1332a861))

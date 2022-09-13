@@ -10,7 +10,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * 更新各包之间依赖版本 ([75c552c](https://github.com/tometh/Editor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
 * 两个 list 时回车报错 ([1aebf49](https://github.com/tometh/Editor/commit/1aebf492d2ab0c79b602b4902a87bcd2ec0f8587))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复列表为editor第一个节点无法删除问题 ([793d252](https://github.com/tometh/Editor/commit/793d25239921c89e7721a4c57466128099388b7e))
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/tometh/Editor/commit/16559f052545c111318be760e64291a521bdcc65))
 * 优化 custom-types.d.ts 中类型声明，修复测试文件 ts 报错 ([3a6c455](https://github.com/tometh/Editor/commit/3a6c4553245bc734dae1e17d605af389971782a2))
@@ -34,9 +34,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.2](https://github.com/tometh/Editor/compare/@wangeditor/list-module@1.0.1...@wangeditor/list-module@1.0.2) (2022-05-25)
+## [1.0.2](https://github.com/tometh/Editor/compare/@editor/list-module@1.0.1...@editor/list-module@1.0.2) (2022-05-25)
 
-**Note:** Version bump only for package @wangeditor/list-module
+**Note:** Version bump only for package @editor/list-module
 
 
 
@@ -49,7 +49,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * 更新各包之间依赖版本 ([75c552c](https://github.com/tometh/Editor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
 * 两个 list 时回车报错 ([1aebf49](https://github.com/tometh/Editor/commit/1aebf492d2ab0c79b602b4902a87bcd2ec0f8587))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复列表为editor第一个节点无法删除问题 ([793d252](https://github.com/tometh/Editor/commit/793d25239921c89e7721a4c57466128099388b7e))
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/tometh/Editor/commit/16559f052545c111318be760e64291a521bdcc65))
 * 优化 custom-types.d.ts 中类型声明，修复测试文件 ts 报错 ([3a6c455](https://github.com/tometh/Editor/commit/3a6c4553245bc734dae1e17d605af389971782a2))

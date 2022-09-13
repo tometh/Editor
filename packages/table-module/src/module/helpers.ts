@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { DomEditor, IDomEditor } from '@wangeditor/core'
+import { DomEditor, IDomEditor } from '@editor/core'
 import { TableElement, TableCellElement } from './custom-types'
 
 /**

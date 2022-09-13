@@ -4,7 +4,7 @@
  */
 
 import { Editor, Transforms, Node as SlateNode, Element as SlateElement } from 'slate'
-import { IDomEditor, DomEditor } from '@wangeditor/core'
+import { IDomEditor, DomEditor } from '@editor/core'
 import { checkList } from './helper'
 
 function deleteHandler(newEditor: IDomEditor): boolean {

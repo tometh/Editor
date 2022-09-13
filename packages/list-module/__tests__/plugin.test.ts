@@ -5,7 +5,7 @@
 
 import withList from '../src/module/plugin'
 import createEditor from '../../../tests/utils/create-editor'
-import * as core from '@wangeditor/core'
+import * as core from '@editor/core'
 import * as slate from 'slate'
 
 describe('module plugin', () => {

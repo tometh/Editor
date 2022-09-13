@@ -4,7 +4,7 @@
  */
 
 import { Descendant } from 'slate'
-import { IDomEditor } from '@wangeditor/core'
+import { IDomEditor } from '@editor/core'
 import { ImageElement } from './custom-types'
 import $, { DOMElement, getStyleValue } from '../../utils/dom'
 

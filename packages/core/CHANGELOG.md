@@ -202,7 +202,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.12](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.11...@wangeditor/core@1.1.12) (2022-08-30)
+## [1.1.12](https://github.com/tometh/Editor/compare/@editor/core@1.1.11...@editor/core@1.1.12) (2022-08-30)
 
 
 ### Bug Fixes
@@ -213,15 +213,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.11](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.10...@wangeditor/core@1.1.11) (2022-07-27)
+## [1.1.11](https://github.com/tometh/Editor/compare/@editor/core@1.1.10...@editor/core@1.1.11) (2022-07-27)
 
-**Note:** Version bump only for package @wangeditor/core
-
-
+**Note:** Version bump only for package @editor/core
 
 
 
-## [1.1.10](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.9...@wangeditor/core@1.1.10) (2022-07-27)
+
+
+## [1.1.10](https://github.com/tometh/Editor/compare/@editor/core@1.1.9...@editor/core@1.1.10) (2022-07-27)
 
 
 ### Bug Fixes
@@ -233,7 +233,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.9](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.8...@wangeditor/core@1.1.9) (2022-07-22)
+## [1.1.9](https://github.com/tometh/Editor/compare/@editor/core@1.1.8...@editor/core@1.1.9) (2022-07-22)
 
 
 ### Bug Fixes
@@ -244,7 +244,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.8](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.7...@wangeditor/core@1.1.8) (2022-07-18)
+## [1.1.8](https://github.com/tometh/Editor/compare/@editor/core@1.1.7...@editor/core@1.1.8) (2022-07-18)
 
 
 ### Bug Fixes
@@ -255,7 +255,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.7](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.6...@wangeditor/core@1.1.7) (2022-07-16)
+## [1.1.7](https://github.com/tometh/Editor/compare/@editor/core@1.1.6...@editor/core@1.1.7) (2022-07-16)
 
 
 ### Bug Fixes
@@ -267,7 +267,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.6](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.5...@wangeditor/core@1.1.6) (2022-07-14)
+## [1.1.6](https://github.com/tometh/Editor/compare/@editor/core@1.1.5...@editor/core@1.1.6) (2022-07-14)
 
 
 ### Bug Fixes
@@ -278,7 +278,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.5](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.4...@wangeditor/core@1.1.5) (2022-07-13)
+## [1.1.5](https://github.com/tometh/Editor/compare/@editor/core@1.1.4...@editor/core@1.1.5) (2022-07-13)
 
 
 ### Bug Fixes
@@ -289,15 +289,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.4](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.3...@wangeditor/core@1.1.4) (2022-07-12)
+## [1.1.4](https://github.com/tometh/Editor/compare/@editor/core@1.1.3...@editor/core@1.1.4) (2022-07-12)
 
-**Note:** Version bump only for package @wangeditor/core
-
-
+**Note:** Version bump only for package @editor/core
 
 
 
-## [1.1.3](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.2...@wangeditor/core@1.1.3) (2022-07-11)
+
+
+## [1.1.3](https://github.com/tometh/Editor/compare/@editor/core@1.1.2...@editor/core@1.1.3) (2022-07-11)
 
 
 ### Bug Fixes
@@ -309,7 +309,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.1...@wangeditor/core@1.1.2) (2022-07-11)
+## [1.1.2](https://github.com/tometh/Editor/compare/@editor/core@1.1.1...@editor/core@1.1.2) (2022-07-11)
 
 
 ### Bug Fixes
@@ -322,7 +322,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/tometh/Editor/compare/@wangeditor/core@1.1.0...@wangeditor/core@1.1.1) (2022-06-02)
+## [1.1.1](https://github.com/tometh/Editor/compare/@editor/core@1.1.0...@editor/core@1.1.1) (2022-06-02)
 
 
 ### Bug Fixes
@@ -333,7 +333,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/tometh/Editor/compare/@wangeditor/core@1.0.1...@wangeditor/core@1.1.0) (2022-05-25)
+# [1.1.0](https://github.com/tometh/Editor/compare/@editor/core@1.0.1...@editor/core@1.1.0) (2022-05-25)
 
 
 ### Bug Fixes

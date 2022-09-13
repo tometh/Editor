@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor/table-module",
+  "name": "@editor/table-module",
   "version": "1.2.0",
   "description": "wangEditor table module",
   "author": "wangfupeng1988 <wangfupeng1988@163.com>",
@@ -41,7 +41,7 @@
     "url": "https://github.com/tometh/Editor/issues"
   },
   "peerDependencies": {
-    "@wangeditor/core": "1.x",
+    "@editor/core": "1.x",
     "dom7": "^3.0.0",
     "lodash.isequal": "^4.5.0",
     "lodash.throttle": "^4.1.1",

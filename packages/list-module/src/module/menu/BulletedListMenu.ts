@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IDomEditor, t } from '@wangeditor/core'
+import { IDomEditor, t } from '@editor/core'
 import BaseMenu from './BaseMenu'
 import { BULLETED_LIST_SVG } from '../../constants/svg'
 

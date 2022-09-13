@@ -5,7 +5,7 @@
 
 import $, { DOMElement } from '../utils/dom'
 import { Descendant, Element } from 'slate'
-import { DomEditor, IDomEditor } from '@wangeditor/core'
+import { DomEditor, IDomEditor } from '@editor/core'
 import { CodeElement } from '../custom-types'
 
 export function parseCodeStyleHtml(

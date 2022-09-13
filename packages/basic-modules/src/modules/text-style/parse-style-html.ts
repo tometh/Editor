@@ -4,7 +4,7 @@
  */
 
 import { Descendant, Text } from 'slate'
-import { IDomEditor } from '@wangeditor/core'
+import { IDomEditor } from '@editor/core'
 import { StyledText } from './custom-types'
 import $, { Dom7Array, DOMElement } from '../../utils/dom'
 

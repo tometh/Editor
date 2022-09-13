@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor/basic-modules",
+  "name": "@editor/basic-modules",
   "version": "1.2.0",
   "description": "wangEditor basic modules",
   "author": "wangfupeng1988 <wangfupeng1988@163.com>",
@@ -41,7 +41,7 @@
     "url": "https://github.com/tometh/Editor/issues"
   },
   "peerDependencies": {
-    "@wangeditor/core": "1.x",
+    "@editor/core": "1.x",
     "dom7": "^3.0.0",
     "lodash.throttle": "^4.1.1",
     "nanoid": "^3.2.0",

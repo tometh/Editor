@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor/core'
+import { IModuleConf } from '@editor/core'
 import {
   renderHeader1Conf,
   renderHeader2Conf,

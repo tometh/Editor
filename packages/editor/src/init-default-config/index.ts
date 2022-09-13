@@ -11,7 +11,7 @@ import {
   getSimpleToolbarConfig,
 } from './config'
 
-import { wangEditorCodeHighLightDecorate } from '@wangeditor/code-highlight'
+import { wangEditorCodeHighLightDecorate } from '@editor/code-highlight'
 
 const defaultEditorConfig = getDefaultEditorConfig()
 Boot.setEditorConfig({

@@ -13,7 +13,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 单元格内包含复杂样式内容时按tab未跳转到下一个单元格 ([db5e6f2](https://github.com/tometh/Editor/commit/db5e6f20c2c081d193fa80077f91d121be98c2a0))
 * 更新各包之间依赖版本 ([75c552c](https://github.com/tometh/Editor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
 * 两个表格不能紧挨着 ([5955b61](https://github.com/tometh/Editor/commit/5955b614cf92f65c9ebea47e6719047f3c0d27ea))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/tometh/Editor/commit/16559f052545c111318be760e64291a521bdcc65))
 * 优化 custom-types.d.ts 中类型声明，修复测试文件 ts 报错 ([3a6c455](https://github.com/tometh/Editor/commit/3a6c4553245bc734dae1e17d605af389971782a2))
 * 优化表格 ([f240ca7](https://github.com/tometh/Editor/commit/f240ca71e31ccdea947233a767e3371434af0b6f))
@@ -47,7 +47,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/tometh/Editor/compare/@wangeditor/table-module@1.1.0...@wangeditor/table-module@1.1.1) (2022-07-11)
+## [1.1.1](https://github.com/tometh/Editor/compare/@editor/table-module@1.1.0...@editor/table-module@1.1.1) (2022-07-11)
 
 
 ### Bug Fixes
@@ -58,7 +58,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/tometh/Editor/compare/@wangeditor/table-module@1.0.1...@wangeditor/table-module@1.1.0) (2022-05-25)
+# [1.1.0](https://github.com/tometh/Editor/compare/@editor/table-module@1.0.1...@editor/table-module@1.1.0) (2022-05-25)
 
 
 ### Bug Fixes
@@ -84,7 +84,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 单元格内包含复杂样式内容时按tab未跳转到下一个单元格 ([db5e6f2](https://github.com/tometh/Editor/commit/db5e6f20c2c081d193fa80077f91d121be98c2a0))
 * 更新各包之间依赖版本 ([75c552c](https://github.com/tometh/Editor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
 * 两个表格不能紧挨着 ([5955b61](https://github.com/tometh/Editor/commit/5955b614cf92f65c9ebea47e6719047f3c0d27ea))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @editor/editor 出现警告的问题 ([4087fbe](https://github.com/tometh/Editor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/tometh/Editor/commit/16559f052545c111318be760e64291a521bdcc65))
 * 优化 custom-types.d.ts 中类型声明，修复测试文件 ts 报错 ([3a6c455](https://github.com/tometh/Editor/commit/3a6c4553245bc734dae1e17d605af389971782a2))
 * 优化表格 ([f240ca7](https://github.com/tometh/Editor/commit/f240ca71e31ccdea947233a767e3371434af0b6f))

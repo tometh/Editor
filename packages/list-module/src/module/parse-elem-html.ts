@@ -5,7 +5,7 @@
 
 import { Descendant, Text } from 'slate'
 import $, { DOMElement } from '../utils/dom'
-import { IDomEditor, DomEditor } from '@wangeditor/core'
+import { IDomEditor, DomEditor } from '@editor/core'
 import { ListItemElement, BulletedListElement, NumberedListElement } from './custom-types'
 
 function parseItemHtml(

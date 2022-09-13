@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor/core'
+import { IModuleConf } from '@editor/core'
 import { renderStyle } from './render-style'
 import { parseCodeStyleHtml } from './parse-style-html'
 import { selectLangMenuConf } from './menu/index'

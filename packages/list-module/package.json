@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor/list-module",
+  "name": "@editor/list-module",
   "version": "1.1.0",
   "description": "wangEditor list module",
   "author": "wangfupeng1988 <wangfupeng1988@163.com>",
@@ -41,7 +41,7 @@
     "url": "https://github.com/tometh/Editor/issues"
   },
   "peerDependencies": {
-    "@wangeditor/core": "1.x",
+    "@editor/core": "1.x",
     "dom7": "^3.0.0",
     "slate": "^0.72.0",
     "snabbdom": "^3.1.0"
