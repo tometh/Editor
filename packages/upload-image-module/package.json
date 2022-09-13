@@ -41,14 +41,14 @@
     "url": "https://github.com/tometh/Editor/issues"
   },
   "peerDependencies": {
-    "@uppy/core": "^2.0.3",
-    "@uppy/xhr-upload": "^2.0.3",
     "@editor/basic-modules": "1.x",
     "@editor/core": "1.x",
+    "@uppy/core": "^2.0.3",
+    "@uppy/xhr-upload": "^2.0.3",
     "dom7": "^3.0.0",
     "lodash.foreach": "^4.5.0",
     "slate": "^0.72.0",
     "snabbdom": "^3.1.0"
   },
-  "gitHead": "1b23db92fa76ccc36169aef6cacfc6bdf2e8144d"
+  "gitHead": "651b345b88cf548c085d405f06f51705536aec87"
 }
