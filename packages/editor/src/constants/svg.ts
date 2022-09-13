@@ -18,13 +18,23 @@ export const JUSTIFY_LEFT_SVG =
   '<svg viewBox="0 0 1024 1024"><path d="M768 793.6v102.4H51.2v-102.4h716.8z m204.8-230.4v102.4H51.2v-102.4h921.6z m-204.8-230.4v102.4H51.2v-102.4h716.8zM972.8 102.4v102.4H51.2V102.4h921.6z"></path></svg>'
 
 // 图片
-export const IMAGE_SVG =
-  '<svg viewBox="0 0 1024 1024"><path d="M959.877 128l0.123 0.123v767.775l-0.123 0.122H64.102l-0.122-0.122V128.123l0.122-0.123h895.775zM960 64H64C28.795 64 0 92.795 0 128v768c0 35.205 28.795 64 64 64h896c35.205 0 64-28.795 64-64V128c0-35.205-28.795-64-64-64zM832 288.01c0 53.023-42.988 96.01-96.01 96.01s-96.01-42.987-96.01-96.01S682.967 192 735.99 192 832 234.988 832 288.01zM896 832H128V704l224.01-384 256 320h64l224.01-192z"></path></svg>'
-
+export const IMAGE_SVG = `
+  <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 9C6.5 8.44771 6.94771 8 7.5 8H24.5C25.0523 8 25.5 8.44771 25.5 9V23C25.5 23.5523 25.0523 24 24.5 24H7.5C6.94771 24 6.5 23.5523 6.5 23V9Z" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 13C11.6642 13 12 12.6642 12 12.25C12 11.8358 11.6642 11.5 11.25 11.5C10.8358 11.5 10.5 11.8358 10.5 12.25C10.5 12.6642 10.8358 13 11.25 13Z" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M11.5 16L14 18L17 14.5L25.5 21V23C25.5 23.5523 25.0523 24 24.5 24H7.5C6.94771 24 6.5 23.5523 6.5 23V21L11.5 16Z" stroke="white" stroke-width="2" stroke-linejoin="round"/>
+  </svg>
+`
 // plus
 export const MORE_SVG =
   '<svg viewBox="0 0 1024 1024"><path d="M204.8 505.6m-76.8 0a76.8 76.8 0 1 0 153.6 0 76.8 76.8 0 1 0-153.6 0Z"></path><path d="M505.6 505.6m-76.8 0a76.8 76.8 0 1 0 153.6 0 76.8 76.8 0 1 0-153.6 0Z"></path><path d="M806.4 505.6m-76.8 0a76.8 76.8 0 1 0 153.6 0 76.8 76.8 0 1 0-153.6 0Z"></path></svg>'
 
 // 视频
-export const VIDEO_SVG =
-  '<svg viewBox="0 0 1024 1024"><path d="M981.184 160.096C837.568 139.456 678.848 128 512 128S186.432 139.456 42.816 160.096C15.296 267.808 0 386.848 0 512s15.264 244.16 42.816 351.904C186.464 884.544 345.152 896 512 896s325.568-11.456 469.184-32.096C1008.704 756.192 1024 637.152 1024 512s-15.264-244.16-42.816-351.904zM384 704V320l320 192-320 192z"></path></svg>'
+export const VIDEO_SVG = `<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M23.5 7H8.5C7.67158 7 7 7.67158 7 8.5V23.5C7 24.3285 7.67158 25 8.5 25H23.5C24.3285 25 25 24.3285 25 23.5V8.5C25 7.67158 24.3285 7 23.5 7Z" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M14.25 18.0001V14.969L16.875 16.4845L19.5 18.0001L16.875 19.5156L14.25 21.0312V18.0001Z" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M7 11.5H25" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M20.5 7L17.5 11.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14.5 7L11.5 11.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  `

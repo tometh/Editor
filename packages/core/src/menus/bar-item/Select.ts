@@ -7,7 +7,7 @@ import $, { Dom7Array } from '../../utils/dom'
 import { IBarItem, getEditorInstance } from './index'
 import { IOption, ISelectMenu } from '../interface'
 import SelectList from '../panel-and-modal/SelectList'
-import { gen$downArrow } from '../helpers/helpers'
+// import { gen$downArrow } from '../helpers/helpers'
 import { promiseResolveThen } from '../../utils/util'
 import { addTooltip } from './tooltip'
 
@@ -122,10 +122,10 @@ class BarItemSelect implements IBarItem {
     const optText = getOptionText(options, value.toString())
 
     const $button = this.$button
-    const $downArrow = gen$downArrow() // 向下的箭头图标
+    // const $downArrow = gen$downArrow() // 向下的箭头图标
     $button.empty()
     $button.text(optText)
-    $button.append($downArrow)
+    // $button.append($downArrow)
   }
 
   private setDisabled() {

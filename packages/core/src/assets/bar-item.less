@@ -5,7 +5,7 @@
   width: 1px;
   height: @toolbar-height;
   background-color: @toolbar-border-color; // 分割线 bgColor
-  margin: 0 5px;
+  margin: 12px 5px;
 }
 
 .w-e-bar-item {
@@ -15,12 +15,12 @@
   justify-content: center;
   text-align: center;
   padding: 4px;
-  height: @toolbar-height;
+  height: 56px;
 
   button {
     border: none;
     background: transparent;
-    height: calc(@toolbar-height - 8px);
+    height: calc(56px - 8px);
     padding: 0 8px;
     cursor: pointer;
     display: inline-flex;
@@ -37,6 +37,7 @@
 
     .title {
       margin-left: 5px;
+      font-size: 16px;
     }
   }
 
@@ -128,8 +129,8 @@
     background-color: @toolbar-bg-color;
     position: absolute;
     top: 0;
-    left: 0;
-    margin-top: @toolbar-height;
+    left: 17px;
+    margin-top: 56px;
     .shadowBordered(10px);
   }
   &:hover {

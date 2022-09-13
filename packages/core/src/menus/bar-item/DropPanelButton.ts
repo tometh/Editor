@@ -6,7 +6,7 @@
 import { IDropPanelMenu } from '../interface'
 import BaseButton from './BaseButton'
 import DropPanel from '../panel-and-modal/DropPanel'
-import { gen$downArrow } from '../helpers/helpers'
+// import { gen$downArrow } from '../helpers/helpers'
 import { getEditorInstance } from './index'
 
 class DropPanelButton extends BaseButton {
@@ -17,10 +17,10 @@ class DropPanelButton extends BaseButton {
     super(menu, inGroup)
     this.menu = menu
 
-    if (menu.showDropPanel) {
-      const $arrow = gen$downArrow()
-      this.$button.append($arrow)
-    }
+    // if (menu.showDropPanel) {
+    //   const $arrow = gen$downArrow()
+    //   this.$button.append($arrow)
+    // }
   }
 
   // button 点击之后

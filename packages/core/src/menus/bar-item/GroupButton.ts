@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { gen$downArrow } from '../helpers/helpers'
+// import { gen$downArrow } from '../helpers/helpers'
 import $, { Dom7Array } from '../../utils/dom'
 import { IMenuGroup } from '../interface'
 import { clearSvgStyle } from '../helpers/helpers'
@@ -27,8 +27,8 @@ class GroupButton {
       $button.text(title)
     }
 
-    const $arrow = gen$downArrow()
-    $button.append($arrow)
+    // const $arrow = gen$downArrow()
+    // $button.append($arrow)
     $elem.append($button)
 
     // menu container

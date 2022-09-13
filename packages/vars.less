@@ -1,6 +1,6 @@
 // 注意：css vars 全部都定义在 packages/editor/src/assets/index.less
 
-@size: 14px;
+@size: 32px;
 
 // textarea - less vars
 @textarea-color: var(--w-e-textarea-color);
@@ -19,7 +19,7 @@
 @toolbar-active-bg-color: var(--w-e-toolbar-active-bg-color);
 @toolbar-disabled-color: var(--w-e-toolbar-disabled-color);
 @toolbar-border-color: var(--w-e-toolbar-border-color);
-@toolbar-height: 40px;
+@toolbar-height: 16px;
 
 // modal - less vars
 @modal-button-bg-color: var(--w-e-modal-button-bg-color);
@@ -28,6 +28,6 @@
 // less mixins
 .shadowBordered(@shadowRadius: 5px) {
   border: 1px solid @toolbar-border-color;
-  border-radius: 3px;
+  // border-radius: 3px;
   box-shadow: 0 2px @shadowRadius #0000001f;
 }

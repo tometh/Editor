@@ -26,7 +26,7 @@ export function genUploadImageConfig(): IUploadConfigForImage {
     server: '', // server API 地址，需用户配置
 
     fieldName: 'wangeditor-uploaded-image', // formData 中，文件的 key
-    maxFileSize: 2 * 1024 * 1024, // 2M
+    maxFileSize: 20 * 1024 * 1024, // 2M
     maxNumberOfFiles: 100, // 最多上传 xx 张图片
     allowedFileTypes: ['image/*'],
     meta: {
